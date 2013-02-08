@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+    <channel>
+        <title>Mon site</title>
+        <description>Ceci est un exemple de flux RSS 2.0</description>
+        <lastBuildDate>Sat, 14 Sep 2012 02:02:02 GMT</lastBuildDate>
+		<author>toto@exemple.com</author>
+		<webMaster>Toto</webMaster>
+        <link>http://www.example.org</link>
+		<language>fr</language>
+		<copyright>Toto Corporation</copyright>
+		<ttl>75</ttl>
+        <item>
+            <title>Actualité N°2</title>
+            <description>Ceci est ma deuxième actualité</description>
+            <pubDate>Sat, 14 Sep 2012 02:02:02 GMT</pubDate>
+            <link>http://www.example.org/actu2</link>
+			<author>Toto</author>
+			<guid>actu2</guid>
+        </item>
+        <item>
+            <title>Actualité N°1</title>
+            <description>Ceci est ma première actualité</description>
+            <pubDate>Sat, 07 Sep 2012 01:01:01 GMT</pubDate>
+            <link>http://www.example.org/actu1</link>
+			<enclosure url="http://s1.lemde.fr/image/2012/07/14/87x0/1733839_7_3750_francois-hollande-et-jean-marc-ayrault-a-la_de90760d9db3388bd863524b62be4d20.jpg" length="2552" type="image/jpeg" />
+        </item>
+    </channel>
+</rss>
